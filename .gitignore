@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/
+results/tables/sens_done.txt
+results/tables/run_*.log

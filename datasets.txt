@@ -1,0 +1,9 @@
+mushroom nursery satimage optdigits car_evaluation pendigits chess churn vehicle
+waveform_21 twonorm krkopt ring agaricus_lepiota texture magic yeast adult
+letter splice segmentation phoneme wine_quality_red coil2000 spambase
+wine_quality_white page_blocks
+balance_scale banana breast_cancer_wisconsin_diagnostic breast_cancer_wisconsin_original
+contraceptive_method credit_approval_australia credit_approval_germany kr_vs_kp hypothyroid
+ann_thyroid soybean tic_tac_toe titanic vowel waveform_40 mfeat_fourier mfeat_karhunen
+mfeat_zernike analcatdata_authorship led7 led24 profb shuttle monk1 monk2 monk3
+Hill_Valley_with_noise threeOf9 xd6 mofn_3_7_10 irish allbp allrep
