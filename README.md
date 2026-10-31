@@ -49,5 +49,4 @@ PMLB repository and cached under `data/`.
 
 ## AI assistance
 
-Code, experiments and the manuscript draft were produced with the help of Claude (Anthropic) and
-were reviewed by the authors.
+Code, experiments were produced with the help of Claude (Anthropic) and were reviewed by the authors.
